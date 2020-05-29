@@ -7,7 +7,7 @@ spring:
     username: fy2021
     password: Ws123456
 
-env: dev2
+env: dev3
 
 
 
