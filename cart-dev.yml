@@ -1,2 +1,8 @@
 server:
   port: 8082
+spring:
+  rabbitmq:
+    host: 182.92.237.62
+    port: 5672
+    username: fy2021
+    password: Ws123456
