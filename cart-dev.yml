@@ -6,3 +6,5 @@ spring:
     port: 5672
     username: fy2021
     password: Ws123456
+
+env: dev
