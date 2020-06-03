@@ -14,6 +14,7 @@ server:
       test-on-borrow: true
       test-on-return: true
 
+
   rabbitmq:
     host: 182.92.237.62
     port: 5672
