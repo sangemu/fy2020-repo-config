@@ -1,7 +1,6 @@
 server:
   port: 8080
   
-spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     druid:
@@ -14,7 +13,8 @@ spring:
       min-idle: 1
       test-on-borrow: true
       test-on-return: true
-   rabbitmq:
+
+  rabbitmq:
     host: 182.92.237.62
     port: 5672
     username: fy2021
