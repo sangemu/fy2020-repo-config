@@ -39,3 +39,8 @@ redis:
   redisPort: 6379
   redisPassword: Ws123456
   timeout: 1000
+
+
+
+resetpassword:
+  timeout: 60
